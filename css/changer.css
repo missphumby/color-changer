@@ -1,0 +1,33 @@
+body{
+    align-items: center;
+    text-align: center
+
+}
+
+.button{
+    display:inline-block;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+#grey{
+    background-color: gray;
+}
+#yellow{
+    background-color: yellow;
+}
+#red{
+    background-color: tomato;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#lightpink{
+    background-color: fuchsia;
+}
